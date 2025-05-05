@@ -449,11 +449,11 @@ contact.html
     </center>
     </body>
 </html>
-
+```
 # OUTPUT:
-1.png
-2.png
-3.png
-4.png
+![alt text](1-1.png)
+![alt text](2-1.png)
+![alt text](3-1.png)
+![alt text](4-1.png)
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
